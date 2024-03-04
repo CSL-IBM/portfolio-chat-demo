@@ -67,8 +67,8 @@ with st.spinner("Initiating the AI assistant. Please hold..."):
     llm_hub = None
     embeddings = None
     
-    Watsonx_API = "d2HVRtDW7TWvOxo4aTdQ00nzvS6v3A3Ru6hqCpyqd5HD"
-    Project_id= "26bdbbbb-edef-41a8-a0a3-695e69e0bdad"
+    Watsonx_API = "WX-fh0WLD6Ydj4m671cxUqZOqb9MbOTbOYeoVYw9tjYh"
+    Project_id= "21f39c9c-53aa-490d-9966-2a373e0ad09a"
 
     # Function to initialize the language model and its embeddings
     def init_llm():
